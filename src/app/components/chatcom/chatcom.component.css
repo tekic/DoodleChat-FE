@@ -1,0 +1,10 @@
+form,  h2 {
+  text-align: center;
+}
+div.chat {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.chat p {
+  margin: 0 }
